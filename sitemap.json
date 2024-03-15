@@ -1,0 +1,7 @@
+{
+  "desc": "学之思小程序",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}
